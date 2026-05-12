@@ -39,7 +39,39 @@ body {
 
 .container { max-width: 1120px; margin: 0 auto; padding: 0 32px; }
 .sr-only { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0,0,0,0); }
+/* ─── SEÇÃO DE VÍDEOS ─── */
+.video-section { background: var(--green-pale); padding: 100px 0; }
+.video-grid { 
+  display: grid; 
+  grid-template-columns: 1fr 1fr; 
+  gap: 40px; 
+  margin-top: 50px; 
+}
+.video-card {
+  background: white;
+  padding: 20px;
+  border-radius: 32px;
+  box-shadow: 0 20px 40px rgba(42,40,37,0.05);
+  border: 1px solid var(--border);
+}
+.video-card video {
+  width: 100%;
+  border-radius: 20px;
+  display: block;
+  outline: none;
+}
+.video-info { margin-top: 20px; text-align: center; }
+.video-info h4 { 
+  font-family: 'Cormorant Garamond', serif; 
+  font-size: 1.4rem; 
+  color: var(--ink);
+  margin-bottom: 8px;
+}
+.video-info p { font-size: 0.85rem; color: var(--ink-soft); font-weight: 300; }
 
+@media (max-width: 768px) {
+  .video-grid { grid-template-columns: 1fr; gap: 30px; }
+}
 /* ─── NAV ─── */
 nav {
   position: fixed; top: 0; left: 0; right: 0;
@@ -837,6 +869,7 @@ footer { background: #1A1917; padding: 60px 0 32px; color: rgba(255,255,255,0.4)
       <li><a href="#como-funciona">Como funciona</a></li>
       <li><a href="#sobre">Sobre mim</a></li>
       <li><a href="#servicos">Serviços</a></li>
+      <li><a href="#videos">Videos</a></li>
       <li><a href="#contato" class="nav-cta">Agendar consulta</a></li>
     </ul>
   </div>
@@ -1032,6 +1065,45 @@ footer { background: #1A1917; padding: 60px 0 32px; color: rgba(255,255,255,0.4)
         </div>
       </div>
 
+    </div>
+  </div>
+</section>
+
+<!-- SEÇÃO DE VÍDEOS -->
+<section class="video-section" id="reflexoes">
+  <div class="container">
+    <div style="text-align: center; max-width: 700px; margin: 0 auto;">
+      <div class="section-tag tag-green" style="justify-content:center">Acompanhe</div>
+      <h2 class="section-title">Palavra da <strong>Especialista</strong></h2>
+      <p class="section-sub" style="margin: 0 auto;">
+        Assista aos vídeos onde compartilho reflexões sobre o processo terapêutico e como a psicologia pode transformar sua qualidade de vida.
+      </p>
+    </div>
+
+    <div class="video-grid">
+      <!-- VÍDEO 1 -->
+      <div class="video-card reveal">
+        <video controls preload="metadata">
+          <source src="video.mp4" type="video/mp4">
+          Seu navegador não suporta vídeos.
+        </video>
+        <div class="video-info">
+          <h4>O Processo de Psicoterapia</h4>
+          <p>Entenda como as sessões ajudam no seu amadurecimento emocional.</p>
+        </div>
+      </div>
+
+      <!-- VÍDEO 2 -->
+      <div class="video-card reveal reveal-delay-1">
+        <video controls preload="metadata">
+          <source src="video1.mp4" type="video/mp4">
+          Seu navegador não suporta vídeos.
+        </video>
+        <div class="video-info">
+          <h4>Desafios e Transformações</h4>
+          <p>Como lidar com as barreiras internas e buscar o bem-estar.</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
