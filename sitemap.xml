@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://cristianemoreira.psi.br/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cristianemoreira.psi.br/cristiane-sem-fundo.png</image:loc>
+      <image:caption>Cristiane Moreira, psicóloga</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cristianemoreira.psi.br/cristiane-de-pe-sem-fundo.png</image:loc>
+      <image:caption>Cristiane Moreira, psicóloga e educadora</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cristianemoreira.psi.br/atendimento-para-brasileiros-no-exterior.jpeg</image:loc>
+      <image:caption>Atendimento psicológico online para brasileiros no exterior</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://cristianemoreira.psi.br/cristiane-sem-fundo.png</video:thumbnail_loc>
+      <video:title>O Processo de Psicoterapia</video:title>
+      <video:description>Entenda como as sessões de psicoterapia ajudam no seu amadurecimento emocional.</video:description>
+      <video:content_loc>https://cristianemoreira.psi.br/video.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://cristianemoreira.psi.br/cristiane-sem-fundo.png</video:thumbnail_loc>
+      <video:title>Desafios e Transformações</video:title>
+      <video:description>Como lidar com as barreiras internas e buscar o bem-estar.</video:description>
+      <video:content_loc>https://cristianemoreira.psi.br/video1.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://cristianemoreira.psi.br/cristiane-sem-fundo.png</video:thumbnail_loc>
+      <video:title>Conheça a Cristiane</video:title>
+      <video:description>Um pouco da história da psicóloga Cristiane Moreira e como será o primeiro contato.</video:description>
+      <video:content_loc>https://cristianemoreira.psi.br/video-cristiane.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+</urlset>

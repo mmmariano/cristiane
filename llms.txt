@@ -1,0 +1,28 @@
+# Cristiane Moreira · Psicóloga
+
+> Psicóloga clínica com atendimento 100% online em português, usando Terapia Cognitivo-Comportamental (TCC). Atende adultos e crianças no Brasil e brasileiros que vivem no exterior (Canadá, Austrália, Estados Unidos, Portugal e outros países). Primeira conversa gratuita e sigilo garantido.
+
+Fatos-chave:
+- Formação: Psicologia pela UEMG; especialista em Neurociência pela UFMG.
+- Abordagem: Terapia Cognitivo-Comportamental (TCC).
+- Público: crianças de 4 a 14 anos e adultos de 18 a 65 anos.
+- Formato: sessões semanais de 50 minutos por videochamada.
+- Temas: ansiedade, estresse, depressão, autoestima, relacionamentos, autoconhecimento, luto, adaptação cultural e saudade em quem mora fora do Brasil.
+- Diferencial: atendimento em português para brasileiros no exterior; ex-bailarina clássica profissional (SATED/MINAS, 30 anos), o que enriquece o trabalho com o público infantil.
+- Contato: WhatsApp (31) 99574-7671 · contato@cristianemoreira.psi.br
+
+## Páginas principais
+- [Página inicial](https://cristianemoreira.psi.br/): apresentação, serviços, vídeos e agendamento
+- [Sobre a psicóloga](https://cristianemoreira.psi.br/#sobre): formação e trajetória
+- [Serviços](https://cristianemoreira.psi.br/#servicos): psicoterapia individual, autoconhecimento, atendimento internacional
+- [Brasileiros no exterior](https://cristianemoreira.psi.br/#exterior): como funciona o atendimento para quem mora fora
+- [Perguntas frequentes](https://cristianemoreira.psi.br/#faq): dúvidas sobre sessões, sigilo e agendamento
+- [Agendar](https://cristianemoreira.psi.br/#contato): contato via WhatsApp
+
+## Mais detalhes
+- [Versão completa em texto](https://cristianemoreira.psi.br/llms-full.txt)
+
+## Optional
+- [Vídeo: O Processo de Psicoterapia](https://cristianemoreira.psi.br/video.mp4)
+- [Vídeo: Desafios e Transformações](https://cristianemoreira.psi.br/video1.mp4)
+- [Vídeo: Conheça a Cristiane](https://cristianemoreira.psi.br/video-cristiane.mp4)

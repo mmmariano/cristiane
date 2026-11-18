@@ -1,0 +1,16 @@
+{
+  "name": "Cristiane Moreira · Psicóloga",
+  "short_name": "Cristiane Psi",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FDFCFA",
+  "theme_color": "#7EA89E",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "77x62",
+      "type": "image/png"
+    }
+  ]
+}
